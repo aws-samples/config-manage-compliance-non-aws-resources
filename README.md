@@ -1,11 +1,12 @@
-## My Project
+## Simplify compliance management of multicloud or hybrid resources with AWS Config
 
-TODO: Fill this README out!
+AWS Lambda function code sample source for the AWS blog: Simplify compliance management of multicloud or hybrid resources with AWS Config
 
-Be sure to:
+This repo hosts CloudFormation templates related to the AWS Management & Governance blog post:
 
-* Change the title in this README
-* Edit your repository description on GitHub
+https://aws.amazon.com/blogs/mt/simplify-compliance-multicloud-hybrid-resources-with-aws-config/
+
+For details on how to use the corresponding Lambda function code, refer to the blog post.
 
 ## Security
 
