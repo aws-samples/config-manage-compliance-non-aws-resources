@@ -2,7 +2,7 @@
 
 AWS Lambda function code sample source for the AWS blog: Simplify compliance management of multicloud or hybrid resources with AWS Config
 
-This repo hosts CloudFormation templates related to the AWS Management & Governance blog post:
+This repo hosts CloudFormation templates related to the AWS Cloud Operations & Migrations blog post:
 
 https://aws.amazon.com/blogs/mt/simplify-compliance-management-of-multicloud-or-hybrid-resources-with-aws-config
 
